@@ -1,0 +1,24 @@
+<definition height="40" type="element" width="50" hotspot_y="19" version="0.90" link_type="simple" hotspot_x="23">
+    <uuid uuid="{d1cae2e3-8834-4e7a-928f-0198410ca3b4}"/>
+    <names>
+        <name lang="hu">102 - Kétpólusú kapcsoló</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle diameter="2" x="18" y="13" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <circle diameter="2" x="-18" y="14" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <circle diameter="2" x="19" y="-1" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x2="-10" y1="0" x3="10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y3="-9" x1="-15" y2="0"/>
+        <polygon x2="10" y1="-1" x3="17" antialias="false" y4="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x4="17" closed="false" y3="0" x1="10" y2="0"/>
+        <polygon x2="-10" y1="15" x3="11" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y3="6" x1="-16" y2="15"/>
+        <polygon x2="10" y1="13" x3="17" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y3="14" x1="10" y2="14"/>
+        <polygon x2="0" y5="-15" y1="10" x3="-3" antialias="false" y4="-11" style="line-style:normal;line-weight:normal;filling:none;color:black" x4="0" closed="false" x5="0" y3="-9" x1="0" y2="-8"/>
+        <polygon x2="-2" y5="-15" y1="-15" x3="1" antialias="false" y4="-16" style="line-style:normal;line-weight:normal;filling:none;color:black" x4="2" closed="false" x5="2" y3="-16" x1="-2" y2="-16"/>
+        <circle diameter="2" x="-18" y="-1" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <terminal x="18" y="14" name="" orientation="e" type="Generic" uuid="{1d484187-82d2-4906-9571-d9733340f557}"/>
+        <terminal x="19" y="0" name="" orientation="e" type="Generic" uuid="{c1e1b656-6926-41a6-bfdc-90179f5ecc29}"/>
+        <terminal x="-16" y="15" name="" orientation="w" type="Generic" uuid="{f8859a30-8abf-4f22-828a-aabcfe6b5d67}"/>
+        <terminal x="-16" y="0" name="" orientation="w" type="Generic" uuid="{57dce217-e99b-4ec3-8416-98d86d54270c}"/>
+    </description>
+</definition>

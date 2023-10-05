@@ -1,0 +1,14 @@
+<definition height="20" type="element" width="20" hotspot_y="11" version="0.90" link_type="simple" hotspot_x="10">
+    <uuid uuid="{c2f1fb05-1564-454a-88ef-321502c49b09}"/>
+    <names>
+        <name lang="en">Ground</name>
+        <name lang="nl">Aarde</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line x2="0" end1="none" y1="-4" end2="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" x1="0" y2="0"/>
+        <line x2="4" end1="none" y1="0" end2="none" antialias="false" style="line-style:normal;line-weight:hight;filling:none;color:black" length1="1.5" length2="1.5" x1="-4" y2="0"/>
+        <terminal x="0" y="-4" name="" orientation="n" type="Generic" uuid="{c8067f32-1f5c-4dd4-99fa-e108950b8b0c}"/>
+    </description>
+</definition>

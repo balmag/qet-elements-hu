@@ -1,0 +1,42 @@
+<definition height="30" type="element" width="60" hotspot_y="15" version="0.90" link_type="master" hotspot_x="30">
+    <uuid uuid="{39c02b2b-717a-4f5c-b830-75a84aade1df}"/>
+    <names>
+        <name lang="ar">مصهر</name>
+        <name lang="en">Fuse</name>
+        <name lang="pt">Fusível</name>
+        <name lang="cs">Pojistka</name>
+        <name lang="el">Ασφάλεια</name>
+        <name lang="fr">Fusible</name>
+        <name lang="it">Fusibile</name>
+        <name lang="pl">Bezpiecznik topikowy</name>
+        <name lang="hu">Lakáselosztó 1 áramkörrel</name>
+        <name lang="ru">Предохранитель</name>
+        <name lang="nl">Zekering</name>
+        <name lang="es">Fusible</name>
+        <name lang="de">Sicherung</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">protection</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <polygon x2="-18" y1="-10" x3="17" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y3="-10" x1="-18" y2="10"/>
+        <polygon x2="17" y1="10" x3="17" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y3="-10" x1="-18" y2="10"/>
+        <terminal x="-22" y="0" name="" orientation="w" type="Generic" uuid="{a3187f6b-7993-4db3-b8fb-05dd3ae356dd}"/>
+        <terminal x="21" y="0" name="" orientation="e" type="Generic" uuid="{c43c22de-4016-4be4-b1e6-e4b0302b66c0}"/>
+    </description>
+</definition>

@@ -1,0 +1,21 @@
+<definition height="30" type="element" width="50" hotspot_y="21" version="0.90" link_type="simple" hotspot_x="24">
+    <uuid uuid="{1e2f14df-602b-47ce-8ad1-a994ac699b05}"/>
+    <names>
+        <name lang="hu">106 - Váltókapcsoló</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <polygon x2="-10" y1="0" x3="10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y3="-10" x1="-15" y2="0"/>
+        <polygon x2="10" y1="-12" x3="17" antialias="false" y4="-13" style="line-style:normal;line-weight:normal;filling:none;color:black" x4="17" closed="false" y3="-13" x1="10" y2="-13"/>
+        <circle diameter="2" x="17" y="-14" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <circle diameter="2" x="17" y="3" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon x2="10" y1="3" x3="17" antialias="false" y4="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x4="17" closed="false" y3="4" x1="10" y2="4"/>
+        <polygon x2="0" y5="-18" y1="-5.33282" x3="-3" antialias="false" y4="-14" style="line-style:normal;line-weight:normal;filling:none;color:black" x4="0" closed="false" x5="0" y3="-12" x1="-0.00619" y2="-11"/>
+        <polygon x2="-2" y5="-18" y1="-18" x3="1" antialias="false" y4="-19" style="line-style:normal;line-weight:normal;filling:none;color:black" x4="2" closed="false" x5="2" y3="-19" x1="-2" y2="-19"/>
+        <circle diameter="2" x="-18" y="-1" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <terminal x="17" y="-13" name="" orientation="e" type="Generic" uuid="{af8b9347-ff7d-4bad-be0b-51de818b3454}"/>
+        <terminal x="17" y="4" name="" orientation="e" type="Generic" uuid="{dc49b742-bc2a-44a5-b3bc-7127e9568c55}"/>
+        <terminal x="-16" y="0" name="" orientation="w" type="Generic" uuid="{27c771f1-3313-41ad-b573-4fcbd0d60ebd}"/>
+    </description>
+</definition>

@@ -1,0 +1,26 @@
+<definition height="30" type="element" width="40" hotspot_y="15" version="0.90" link_type="simple" hotspot_x="18">
+    <uuid uuid="{b2dcaeae-8d61-4e24-a545-7a441d3016d9}"/>
+    <names>
+        <name lang="en">Lighting outlet position</name>
+        <name lang="cs">Světelný vývod</name>
+        <name lang="fr">Point d'attente d'appareil d'éclairage</name>
+        <name lang="hu">Izzó - fényforrás</name>
+        <name lang="be">Aansluitpunt voor een verlichtingstoestel</name>
+        <name lang="de">Leuchtenauslaß </name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text x="16" y="23.5" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text_from="ElementInfo" Valignment="AlignTop" Halignment="AlignLeft" uuid="{1f9e84fe-3bb7-435e-8268-f0580299d132}" text_width="-1" z="1" rotation="0" frame="false" keep_visual_rotation="true">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x2="11" end1="none" y1="-10" end2="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" x1="-9" y2="10"/>
+        <line x2="11" end1="none" y1="10" end2="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" x1="-9" y2="-10"/>
+        <line x2="1" end1="none" y1="0" end2="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" x1="-14" y2="0"/>
+        <line x2="16" end1="none" y1="0" end2="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" x1="1" y2="0"/>
+        <terminal x="16" y="0" name="" orientation="e" type="Generic" uuid="{ef6929d5-fe82-4488-aa6f-964f4062f35a}"/>
+        <terminal x="-14" y="0" name="" orientation="w" type="Generic" uuid="{d22b835d-4311-452b-90a8-c82da705fd20}"/>
+    </description>
+</definition>

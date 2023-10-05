@@ -1,0 +1,24 @@
+<definition height="30" type="element" width="30" hotspot_y="25" version="0.90" link_type="simple" hotspot_x="26">
+    <uuid uuid="{1b817d1b-422f-450c-bd05-aa232cdf40d8}"/>
+    <names>
+        <name lang="en">Lighting outlet position</name>
+        <name lang="cs">Světelný vývod</name>
+        <name lang="fr">Point d'attente d'appareil d'éclairage</name>
+        <name lang="hu">Izzó rövid vezetékkel</name>
+        <name lang="be">Aansluitpunt voor een verlichtingstoestel</name>
+        <name lang="de">Leuchtenauslaß </name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text x="5" y="13.5" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text_from="ElementInfo" Valignment="AlignTop" Halignment="AlignLeft" uuid="{1f9e84fe-3bb7-435e-8268-f0580299d132}" text_width="-1" z="1" rotation="0" frame="false" keep_visual_rotation="true">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x2="0" end1="none" y1="-20" end2="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" x1="-20" y2="0"/>
+        <line x2="0" end1="none" y1="0" end2="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" x1="-20" y2="-20"/>
+        <line x2="-10" end1="none" y1="-10" end2="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" x1="-20" y2="-10"/>
+        <terminal x="-20" y="-10" name="" orientation="w" type="Generic" uuid="{72e46328-5dad-4120-8d68-64138f5079ea}"/>
+    </description>
+</definition>

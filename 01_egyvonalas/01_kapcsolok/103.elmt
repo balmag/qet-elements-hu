@@ -1,0 +1,31 @@
+<definition height="30" type="element" width="30" hotspot_y="20" version="0.90" link_type="simple" hotspot_x="11">
+    <uuid uuid="{3b3b0c27-c5fa-46e5-9c07-bd35b863c6ab}"/>
+    <names>
+        <name lang="ar">مفتاح ثنائي القطبيّة</name>
+        <name lang="en">Two pole switch
+</name>
+        <name lang="cs">Dvoupólový spínač</name>
+        <name lang="el">Διπλός Διακόπτης</name>
+        <name lang="fr">Interrupteur, bipolaire
+</name>
+        <name lang="it">Interruttore bipolare</name>
+        <name lang="pl">Łącznik dwubiegunowy</name>
+        <name lang="hu">Hárompólusú kapcsoló - 103</name>
+        <name lang="nl">Schakelaar (2)</name>
+        <name lang="de">Schalter 2-polig
+</name>
+    </names>
+    <elementInformations/>
+    <informations>EN 60617: 11-14-04</informations>
+    <description>
+        <dynamic_text x="-1" y="-7" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text_from="ElementInfo" Valignment="AlignTop" Halignment="AlignLeft" uuid="{de6c94ec-4831-4a66-a69e-b30aed923057}" text_width="-1" z="1" rotation="0" frame="false" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x2="8.14293" end1="none" y1="-9.81734" end2="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" x1="5.14293" y2="-7.81734"/>
+        <line x2="9.96343" end1="none" y1="-12.6099" end2="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" x1="6.96343" y2="-10.6099"/>
+        <polygon x2="9" y1="-5" x3="12" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y3="-14" x1="2" y2="-16"/>
+        <circle diameter="10" x="-5" y="-5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal x="0" y="-9" name="" orientation="n" type="Generic" uuid="{0836d78c-4b13-43ee-908a-f6ac3ed1a262}"/>
+    </description>
+</definition>

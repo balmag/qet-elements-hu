@@ -1,0 +1,28 @@
+<definition height="30" type="element" width="30" hotspot_y="22" version="0.90" link_type="simple" hotspot_x="15">
+    <uuid uuid="{553adaa8-b6cb-4768-89d6-1b774defea71}"/>
+    <names>
+        <name lang="ar">قاعدة قابس تيّار (قدرة) بحماية  (EN 60617 11-13-04)</name>
+        <name lang="en">isolated ground receptacle (EN 60617 11-13-04)</name>
+        <name lang="cs">Zásuvka s ochranným kontaktem</name>
+        <name lang="el">Πρίζα με αγωγό προστασίας</name>
+        <name lang="fr">Socle de prise de courant (puissance) avec contact pour conducteur de protection (EN 60617 11-13-04)</name>
+        <name lang="it">Presa con contatto per conduttore di protezione</name>
+        <name lang="pl">Gniazdo pojedyncze ze stykiem ochronnym (EN 60617: 11-13-04)</name>
+        <name lang="hu">Dugaszoló aljzat</name>
+        <name lang="nl">Wandcontactdoos randaarde</name>
+        <name lang="de">Schutzkontaktsteckdose allgemein (EN 60617 11-13-04)</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text x="8" y="-36.4" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text_from="ElementInfo" Valignment="AlignTop" Halignment="AlignLeft" uuid="{7c5d524e-ee77-4231-bf2d-0035e3422783}" text_width="-1" z="1" rotation="0" frame="false" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <arc height="20" x="-10" y="-9.95" angle="-180" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" start="-180"/>
+        <line x2="0" end1="none" y1="-10.45" end2="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" x1="0" y2="-12.4"/>
+        <line x2="10" end1="none" y1="-10.45" end2="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" x1="-10" y2="-10.45"/>
+        <terminal x="0" y="-13.9908" name="" orientation="n" type="Generic" uuid="{c20072a6-310a-4107-ba94-0a9558a6ed3c}"/>
+    </description>
+</definition>
