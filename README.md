@@ -13,6 +13,9 @@ Valamennyi operációs rendszer alatt (Windows, Linux, MacOS) hasonlóan lehet b
 Töltsük le a rajzjeleket egy előre kijelölt könyvtárba, majd az alkalamzás alatt keressük meg a beállításokat/általános/gyűjtemény 
 helyet és állítsuk be ezt a kijelölt könyvtárat a felhasználói gyűjtemény helyének.
 
+## Kapcsolók rajzjelei
+Elkészült valamennyi kapcsoló típus egyvonal, áramutas és szerelési rajzjele érintkezőkkel együtt.
+![Kapcsolók rajzjelei](image.png)
 
 
 
