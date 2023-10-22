@@ -1,0 +1,32 @@
+<definition type="element" hotspot_x="15" width="30" hotspot_y="21" height="40" version="0.90" link_type="simple">
+    <uuid uuid="{ea172c1e-4144-4664-a5df-aaae235b43de}"/>
+    <names>
+        <name lang="ar">مفتاح أحادي القطب (مبدّل طرف سلم)</name>
+        <name lang="nl">Serieschakelaar (1)</name>
+        <name lang="de">Serienschalter 1-polig
+</name>
+        <name lang="fr">Interrupteur unipolaire va-et-vient
+</name>
+        <name lang="el">Διακόπτης εναλλαγής (αλέ-ρετούρ)</name>
+        <name lang="cs">Schodišťový přepínač</name>
+        <name lang="hu">Keresztváltó - 107</name>
+        <name lang="it">Deviatore unipolare</name>
+        <name lang="pl">Łącznik schodowy</name>
+        <name lang="en">Two-way single pole switch
+</name>
+    </names>
+    <elementInformations/>
+    <informations>EN 60617: 11-14-06</informations>
+    <description>
+        <polygon x2="10.0656" closed="false" y3="12" x1="3" y2="14.4327" antialias="true" x3="13" y1="5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x2="8.98836" closed="false" y3="-14" x1="1.98836" y2="-16" antialias="true" x3="11.9884" y1="-5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="5" z="1" Valignment="AlignTop" rotation="0" uuid="{7d985e43-fc11-4acc-b510-2c1a611c2c74}" Halignment="AlignLeft" text_width="-1" y="-12.95" frame="false" keep_visual_rotation="false" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x2="-9.93434" closed="false" y3="12.4327" x1="-2.93434" y2="14.4327" antialias="true" x3="-12.9343" y1="4.43272" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x2="-9" closed="false" y3="-15" x1="-2.90527" y2="-17" antialias="true" x3="-12" y1="-4.63294" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle x="-5" diameter="10" antialias="true" y="-5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal type="Generic" x="0" name="" uuid="{782d3db6-081f-4d20-af42-98d092628446}" y="-9" orientation="n"/>
+    </description>
+</definition>

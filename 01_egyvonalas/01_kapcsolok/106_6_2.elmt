@@ -1,0 +1,32 @@
+<definition height="40" version="0.90" link_type="simple" type="element" hotspot_y="21" hotspot_x="15" width="30">
+    <uuid uuid="{2927f797-a7cd-4b97-a556-22c2f8c588f0}"/>
+    <names>
+        <name lang="pl">Łącznik schodowy</name>
+        <name lang="el">Διακόπτης εναλλαγής (αλέ-ρετούρ)</name>
+        <name lang="ar">مفتاح أحادي القطب (مبدّل طرف سلم)</name>
+        <name lang="nl">Serieschakelaar (1)</name>
+        <name lang="cs">Schodišťový přepínač</name>
+        <name lang="de">Serienschalter 1-polig
+</name>
+        <name lang="fr">Interrupteur unipolaire va-et-vient
+</name>
+        <name lang="en">Two-way single pole switch
+</name>
+        <name lang="it">Deviatore unipolare</name>
+        <name lang="hu">Váltó leválasztó - 106/6/2</name>
+    </names>
+    <elementInformations/>
+    <informations>EN 60617: 11-14-06</informations>
+    <description>
+        <line y2="10.5663" end2="none" antialias="false" y1="8.82411" length2="1.5" x1="-10.9187" x2="-8.21787" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+        <dynamic_text text_from="ElementInfo" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-12.95" Halignment="AlignLeft" frame="false" uuid="{7d985e43-fc11-4acc-b510-2c1a611c2c74}" text_width="-1" x="5" z="1" Valignment="AlignTop" keep_visual_rotation="false" rotation="0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon y2="14.3018" antialias="true" y1="4.30181" y3="12.3018" x1="-3.35963" x2="-10.3596" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" x3="-13.3596"/>
+        <polygon y2="-16" antialias="true" y1="-5" y3="-14" x1="2" x2="9" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" x3="12"/>
+        <circle antialias="true" y="-5" diameter="10" x="-5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y2="-10.9919" end2="none" antialias="false" y1="-12.7341" length2="1.5" x1="7.36706" x2="10.0679" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+        <terminal y="-9" uuid="{782d3db6-081f-4d20-af42-98d092628446}" orientation="n" x="0" type="Generic" name=""/>
+    </description>
+</definition>

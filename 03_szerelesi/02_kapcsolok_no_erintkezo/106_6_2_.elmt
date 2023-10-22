@@ -1,0 +1,19 @@
+<definition height="40" version="0.90" link_type="simple" type="element" hotspot_y="17" hotspot_x="13" width="30">
+    <uuid uuid="{e37b6aa0-cd6d-4b74-9dde-fb28b0b3e86e}"/>
+    <names>
+        <name lang="hu">Kétszer váltó leválasztóként- 106/6/2</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <ellipse antialias="false" height="1.62329" y="-5.39044" x="-8.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="1.73562"/>
+        <ellipse antialias="false" height="1.62329" y="11.9246" x="-8.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="1.73562"/>
+        <ellipse antialias="false" height="1.62329" y="0.561619" x="8.27765" style="line-style:normal;line-weight:normal;filling:none;color:black" width="1.73562"/>
+        <ellipse antialias="false" height="1.62329" y="17.8767" x="8.27765" style="line-style:normal;line-weight:normal;filling:none;color:black" width="1.73562"/>
+        <ellipse antialias="false" height="1.62329" y="-14.048" x="8.27765" style="line-style:normal;line-weight:normal;filling:none;color:black" width="1.73562"/>
+        <ellipse antialias="false" height="1.62329" y="3.2671" x="8.27765" style="line-style:normal;line-weight:normal;filling:none;color:black" width="1.73562"/>
+        <line y2="-12.1542" end2="none" antialias="false" y1="-5.1199" length2="1.5" x1="-6.47511" x2="10.3025" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+        <line y2="5.16094" end2="none" antialias="false" y1="12.1952" length2="1.5" x1="-6.47511" x2="10.3025" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+        <line y2="8.94862" end2="none" antialias="false" y1="-7.82538" length2="1.5" x1="0.467366" x2="0.467366" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+    </description>
+</definition>

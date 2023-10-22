@@ -1,0 +1,30 @@
+<definition height="40" version="0.90" link_type="simple" type="element" hotspot_y="20" hotspot_x="28" width="60">
+    <uuid uuid="{ec305351-f7de-4558-a38e-5cc669a660bf}"/>
+    <names>
+        <name lang="hu">105 - Csillárkapcsoló</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle antialias="false" y="-1.5" diameter="3" x="16.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" y="12.5" diameter="3" x="16.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" y="12.5" diameter="3" x="-17.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y2="-6" end2="none" antialias="false" y1="-7" length2="1.5" x1="-1" x2="-1" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+        <polygon y3="-11" closed="false" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x6="-1" y6="-14.3391" x2="-1" y4="-11.3391" x3="-3" y5="-12.3391" x5="-1" x1="-1" x4="-3" y7="-13.8988" y8="-12.8988" x7="-1.03391" y2="-9.33907" x8="-1.03391" y1="-8.33907"/>
+        <line y2="-15.2718" end2="none" antialias="false" y1="-15" length2="1.5" x1="-1" x2="-1" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+        <polygon y2="-16" antialias="false" y1="-16" x1="-3" x2="1" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false"/>
+        <polygon y2="14" antialias="false" y1="14" y3="4" x1="-14" x2="-11" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" x3="8"/>
+        <polygon y2="0" antialias="false" y1="-1" y3="0" x1="9" x2="9" style="line-style:normal;line-weight:normal;filling:none;color:black" x4="16" y4="0" closed="false" x3="16"/>
+        <line y2="8" end2="none" antialias="false" y1="7" length2="1.5" x1="-1" x2="-1" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+        <polygon y2="0" antialias="false" y1="0" y3="-10" x1="-14" x2="-11" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" x3="8"/>
+        <polygon y3="3" closed="false" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x6="-1" y6="-0.339074" x2="-1" y4="2.66093" x3="-3" y5="1.66093" x5="-1" x1="-1" x4="-3" y7="0.101184" y8="1.10118" x7="-1.03391" y2="4.66093" x8="-1.03391" y1="5.66093"/>
+        <polygon y2="14" antialias="false" y1="13" y3="14" x1="9" x2="9" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" x3="16"/>
+        <line y2="-1.2718" end2="none" antialias="false" y1="-1" length2="1.5" x1="-1" x2="-1" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+        <polygon y2="-2" antialias="false" y1="-2" x1="-3" x2="1" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false"/>
+        <line y2="12" end2="none" antialias="false" y1="2" length2="1.5" x1="-16" x2="-16" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+        <circle antialias="false" y="-1.5" diameter="3" x="-17.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal y="0" uuid="{c1e1b656-6926-41a6-bfdc-90179f5ecc29}" orientation="e" x="24" type="Generic" name=""/>
+        <terminal y="0" uuid="{57dce217-e99b-4ec3-8416-98d86d54270c}" orientation="w" x="-22" type="Generic" name=""/>
+        <terminal y="14" uuid="{1d484187-82d2-4906-9571-d9733340f557}" orientation="e" x="24" type="Generic" name=""/>
+    </description>
+</definition>

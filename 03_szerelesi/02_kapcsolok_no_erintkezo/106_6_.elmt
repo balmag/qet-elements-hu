@@ -1,0 +1,18 @@
+<definition height="60" version="0.90" link_type="simple" type="element" hotspot_y="28" hotspot_x="14" width="30">
+    <uuid uuid="{0d672e0c-7a96-4f02-8fa5-9997f57cdff1}"/>
+    <names>
+        <name lang="hu">Kétszer váltó - 106/6</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <ellipse antialias="false" height="2.25" y="-9.5" x="-12.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="2.4"/>
+        <ellipse antialias="false" height="2.25" y="14.5" x="-12.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="2.4"/>
+        <ellipse antialias="false" height="2.25" y="-1.25" x="10.7" style="line-style:normal;line-weight:normal;filling:none;color:black" width="2.4"/>
+        <ellipse antialias="false" height="2.25" y="22.75" x="10.7" style="line-style:normal;line-weight:normal;filling:none;color:black" width="2.4"/>
+        <ellipse antialias="false" height="2.25" y="-21.5" x="10.7" style="line-style:normal;line-weight:normal;filling:none;color:black" width="2.4"/>
+        <ellipse antialias="false" height="2.25" y="2.5" x="10.7" style="line-style:normal;line-weight:normal;filling:none;color:black" width="2.4"/>
+        <line y2="-18.875" end2="none" antialias="false" y1="-9.125" length2="1.5" x1="-9.7" x2="13.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+        <line y2="5.125" end2="none" antialias="false" y1="14.875" length2="1.5" x1="-9.7" x2="13.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+    </description>
+</definition>

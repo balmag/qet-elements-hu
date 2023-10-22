@@ -1,0 +1,27 @@
+<definition height="60" version="0.90" link_type="simple" type="element" hotspot_y="18" hotspot_x="25" width="50">
+    <uuid uuid="{b0d2f52e-ad82-46ce-8f04-3c6180c82142}"/>
+    <names>
+        <name lang="hu">Hárompólusú kapcsoló - 103</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle antialias="false" y="-1.5" diameter="3" x="-16.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" y="32.5" diameter="3" x="-16.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" y="15.5" diameter="3" x="-16.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" y="-1.5" diameter="3" x="12.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" y="32.5" diameter="3" x="12.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" y="15.5" diameter="3" x="12.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y2="-13" end2="none" antialias="false" y1="-1" length2="1.5" x1="-13" x2="13" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+        <line y2="4" end2="none" antialias="false" y1="16" length2="1.5" x1="-13" x2="13" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+        <line y2="21" end2="none" antialias="false" y1="33" length2="1.5" x1="-13" x2="13" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+        <line y2="26.3" end2="none" antialias="false" y1="-5.1" length2="1.5" x1="0" x2="0" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+        <line y2="-6.4" end2="none" antialias="false" y1="-4.4" length2="1.5" x1="0" x2="0" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+        <terminal y="0" uuid="{13b9d866-8620-4eaa-a5c9-6444c38f9062}" orientation="w" x="-21" type="Generic" name=""/>
+        <terminal y="0" uuid="{61ca0a31-b37a-4551-a395-267f01a6840a}" orientation="e" x="20" type="Generic" name=""/>
+        <terminal y="34" uuid="{7849cf16-138c-40c1-ba29-e456fdcdcf35}" orientation="e" x="20" type="Generic" name=""/>
+        <terminal y="34" uuid="{907e92fb-8bcc-4349-987f-a41842b565ed}" orientation="w" x="-21" type="Generic" name=""/>
+        <terminal y="17" uuid="{1cc3abd1-bf8a-476c-a3d9-d262ee5825c7}" orientation="e" x="20" type="Generic" name=""/>
+        <terminal y="17" uuid="{1e76db26-16c1-4caa-b188-df778969983f}" orientation="w" x="-21" type="Generic" name=""/>
+    </description>
+</definition>

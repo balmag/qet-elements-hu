@@ -1,0 +1,13 @@
+<definition height="20" version="0.90" link_type="simple" type="element" hotspot_y="16" hotspot_x="20" width="40">
+    <uuid uuid="{b158e67b-48ba-4d7b-b937-01afb062c7b4}"/>
+    <names>
+        <name lang="hu">Egypólusú kapcsoló - 101</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle antialias="false" y="-1.5" diameter="3" x="-16.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" y="-1.5" diameter="3" x="12.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y2="-13" end2="none" antialias="false" y1="-1" length2="1.5" x1="-13" x2="13" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+    </description>
+</definition>

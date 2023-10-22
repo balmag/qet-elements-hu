@@ -1,0 +1,18 @@
+<definition type="element" hotspot_x="13" width="30" hotspot_y="19" height="40" version="0.90" link_type="simple">
+    <uuid uuid="{c75cccf3-0a77-4158-bf73-8b4bfe8f04c6}"/>
+    <names>
+        <name lang="hu">Áramerősség mérő</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle x="-10" diameter="20" antialias="false" y="-10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x2="-10.9951" length1="1.5" x1="-6.3457" y2="14.2383" antialias="false" y1="8.47266" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x2="13.6055" length1="1.5" x1="7.23145" y2="-15.5039" antialias="false" y1="-8.18848" end2="simple" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text font="Sans Serif,12,-1,5,50,0,0,0,0,0" color="#000000" x="-4.07212" text="A" rotation="0" y="4.25727"/>
+        <line end1="none" x2="0" length1="1.5" x1="0" y2="-14" antialias="false" y1="-10" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x2="0" length1="1.5" x1="0" y2="15" antialias="false" y1="10" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal type="Generic" x="0" name="" uuid="{14ab19f0-6fe2-4747-a7f0-6523159ddb42}" y="15" orientation="s"/>
+        <terminal type="Generic" x="0" name="" uuid="{9ef263b8-cdb1-45ce-83b8-5491c9fd7ed1}" y="-14" orientation="n"/>
+    </description>
+</definition>

@@ -1,0 +1,20 @@
+<definition height="40" version="0.90" link_type="simple" type="element" hotspot_y="17" hotspot_x="25" width="50">
+    <uuid uuid="{56c11f63-01a5-4cf5-8e84-ccab942654d4}"/>
+    <names>
+        <name lang="hu">Csillár kapcsoló - 105</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle antialias="false" y="-1.5" diameter="3" x="-16.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" y="15.5" diameter="3" x="-16.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" y="-1.5" diameter="3" x="12.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" y="15.5" diameter="3" x="12.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y2="-13" end2="none" antialias="false" y1="-1" length2="1.5" x1="-13" x2="13" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+        <line y2="4" end2="none" antialias="false" y1="16" length2="1.5" x1="-13" x2="13" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+        <line y2="15" end2="none" antialias="false" y1="2" length2="1.5" x1="-15" x2="-15" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+        <terminal y="0" uuid="{13b9d866-8620-4eaa-a5c9-6444c38f9062}" orientation="w" x="-21" type="Generic" name=""/>
+        <terminal y="0" uuid="{61ca0a31-b37a-4551-a395-267f01a6840a}" orientation="e" x="20" type="Generic" name=""/>
+        <terminal y="17" uuid="{1cc3abd1-bf8a-476c-a3d9-d262ee5825c7}" orientation="e" x="20" type="Generic" name=""/>
+    </description>
+</definition>

@@ -1,0 +1,17 @@
+<definition height="50" version="0.90" link_type="simple" type="element" hotspot_y="28" hotspot_x="19" width="50">
+    <uuid uuid="{120a9163-50be-483c-8ca8-e3b1b3d00061}"/>
+    <names>
+        <name lang="hu">Szállodai kapcsoló - 104</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle antialias="false" y="-1.5" diameter="3" x="-16.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" y="9.5" diameter="3" x="12.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="12.8288" x="20.8714" text="II" rotation="0"/>
+        <text color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="1.26295" x="20.6114" text="0&#xa;" rotation="0"/>
+        <circle antialias="false" y="-17.5" diameter="3" x="12.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y2="-13" end2="none" antialias="false" y1="-1" length2="1.5" x1="-13" x2="13" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+        <text color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="-13.9735" x="21.4122" text="I" rotation="0"/>
+    </description>
+</definition>

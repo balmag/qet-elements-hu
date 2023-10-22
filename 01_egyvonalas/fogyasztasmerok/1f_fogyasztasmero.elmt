@@ -1,0 +1,18 @@
+<definition type="element" hotspot_x="14" width="30" hotspot_y="24" height="50" version="0.90" link_type="simple">
+    <uuid uuid="{49b7cd77-9a05-430e-903f-0a01b3048650}"/>
+    <names>
+        <name lang="hu">Fogyasztásmérő - 1 fázis</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect x="-11.4995" width="23" antialias="false" rx="0" y="-16" height="32" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x2="11" length1="1.5" x1="-11" y2="8" antialias="false" y1="8" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text font="Sans Serif,8,-1,5,50,0,0,0,0,0" color="#000000" x="-4.2579" text="1f" rotation="0" y="-6.59195"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" x="-7" text="FM" rotation="0" y="4"/>
+        <line end1="none" x2="0" length1="1.5" x1="0" y2="-20" antialias="false" y1="-16" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x2="0" length1="1.5" x1="0" y2="20" antialias="false" y1="16" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal type="Generic" x="0" name="" uuid="{70c674ac-6fea-4bf5-bfd6-a5d4d8f9bb02}" y="-20" orientation="n"/>
+        <terminal type="Generic" x="0" name="" uuid="{a079812b-cd81-4d9c-bbde-dc910797daca}" y="20" orientation="s"/>
+    </description>
+</definition>

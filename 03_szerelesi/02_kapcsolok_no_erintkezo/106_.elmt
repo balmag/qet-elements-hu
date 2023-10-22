@@ -1,0 +1,14 @@
+<definition height="40" version="0.90" link_type="simple" type="element" hotspot_y="22" hotspot_x="20" width="40">
+    <uuid uuid="{2594c3d4-56ac-4b4c-b7da-1715c6354466}"/>
+    <names>
+        <name lang="hu">Váltókapcsoló - 106</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle antialias="false" y="-1.5" diameter="3" x="-16.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" y="9.5" diameter="3" x="12.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" y="-17.5" diameter="3" x="12.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y2="-14" end2="none" antialias="false" y1="-1" length2="1.5" x1="-13" x2="16" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+    </description>
+</definition>

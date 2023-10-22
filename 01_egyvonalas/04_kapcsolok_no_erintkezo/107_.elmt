@@ -1,0 +1,31 @@
+<definition height="40" version="0.90" link_type="simple" type="element" hotspot_y="21" hotspot_x="15" width="30">
+    <uuid uuid="{766b2091-f5e9-4267-a7dc-8a3d93fa0682}"/>
+    <names>
+        <name lang="pl">Łącznik schodowy</name>
+        <name lang="el">Διακόπτης εναλλαγής (αλέ-ρετούρ)</name>
+        <name lang="ar">مفتاح أحادي القطب (مبدّل طرف سلم)</name>
+        <name lang="nl">Serieschakelaar (1)</name>
+        <name lang="cs">Schodišťový přepínač</name>
+        <name lang="de">Serienschalter 1-polig
+</name>
+        <name lang="fr">Interrupteur unipolaire va-et-vient
+</name>
+        <name lang="en">Two-way single pole switch
+</name>
+        <name lang="it">Deviatore unipolare</name>
+        <name lang="hu">Keresztváltó - 107</name>
+    </names>
+    <elementInformations/>
+    <informations>EN 60617: 11-14-06</informations>
+    <description>
+        <polygon y2="14.4327" antialias="true" y1="5" y3="12" x1="3" x2="10.0656" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" x3="13"/>
+        <dynamic_text text_from="ElementInfo" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-12.95" Halignment="AlignLeft" frame="false" uuid="{7d985e43-fc11-4acc-b510-2c1a611c2c74}" text_width="-1" x="5" z="1" Valignment="AlignTop" keep_visual_rotation="false" rotation="0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon y2="-16" antialias="true" y1="-5" y3="-14" x1="1.98836" x2="8.98836" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" x3="11.9884"/>
+        <polygon y2="14.4327" antialias="true" y1="4.43272" y3="12.4327" x1="-2.93434" x2="-9.93434" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" x3="-12.9343"/>
+        <polygon y2="-17" antialias="true" y1="-4.63294" y3="-15" x1="-2.90527" x2="-9" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" x3="-12"/>
+        <circle antialias="true" y="-5" diameter="10" x="-5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+    </description>
+</definition>

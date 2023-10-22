@@ -1,0 +1,18 @@
+<definition type="element" hotspot_x="29" width="60" hotspot_y="23" height="30" version="0.90" link_type="simple">
+    <uuid uuid="{e1a05041-5eb4-480c-8aa8-a4c47eb0e7b8}"/>
+    <names>
+        <name lang="hu">Kismegszakító</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle x="15" diameter="4" antialias="false" y="-2" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x2="-11" closed="false" y3="-10" x1="-15" y2="0" antialias="false" x3="8" y1="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x2="8" closed="false" y3="0" x1="8" y2="0" antialias="false" x3="15" x4="15" y1="-1" y4="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x2="-6" y5="-13" x5="-6" closed="false" x6="-6" y6="-18" y3="-9" x1="-6" y2="-9" antialias="false" x3="-8" x4="-8" y1="-3" y4="-13" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" x2="0" length1="1.5" x1="0" y2="-19" antialias="false" y1="-6" end2="simple" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle x="-19" diameter="4" antialias="false" y="-2" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal type="Generic" x="-23" name="" uuid="{de907626-20b9-46a2-8a57-2f9d393c8501}" y="0" orientation="w"/>
+        <terminal type="Generic" x="23" name="" uuid="{46c33bad-5a6c-49fe-a801-3d1b826dbfec}" y="0" orientation="e"/>
+    </description>
+</definition>

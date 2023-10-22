@@ -1,0 +1,17 @@
+<definition height="40" version="0.90" link_type="simple" type="element" hotspot_y="22" hotspot_x="25" width="50">
+    <uuid uuid="{809ecff5-679b-4d26-8bbe-313ac67ab565}"/>
+    <names>
+        <name lang="hu">Váltókapcsoló - 106</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle antialias="false" y="-1.5" diameter="3" x="-16.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" y="9.5" diameter="3" x="12.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" y="-17.5" diameter="3" x="12.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y2="-14" end2="none" antialias="false" y1="-1" length2="1.5" x1="-13" x2="16" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5"/>
+        <terminal y="-16" uuid="{61ca0a31-b37a-4551-a395-267f01a6840a}" orientation="e" x="20" type="Generic" name=""/>
+        <terminal y="0" uuid="{13b9d866-8620-4eaa-a5c9-6444c38f9062}" orientation="w" x="-21" type="Generic" name=""/>
+        <terminal y="11" uuid="{c93eb0fa-20b5-4a80-a37c-cc64389f1da7}" orientation="e" x="20" type="Generic" name=""/>
+    </description>
+</definition>
