@@ -1,15 +1,15 @@
-<definition version="0.90" hotspot_y="31" hotspot_x="44" width="90" type="element" height="70" link_type="simple">
-    <uuid uuid="{dc4d6ce5-368f-450f-90f3-e14007588b93}"/>
+<definition type="element" version="0.90" width="160" height="150" hotspot_x="77" hotspot_y="71" link_type="simple">
+    <uuid uuid="{e678be1d-498e-4641-a604-2fd97ddbca84}"/>
     <names>
         <name lang="hu">Üres lakáselosztó (2 áramkör, SF, FM)</name>
     </names>
     <elementInformations/>
     <informations></informations>
     <description>
-        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" rx="0" ry="0" y="-25" width="70" height="50" x="-35"/>
-        <terminal name="" orientation="w" y="-10" type="Generic" x="-40" uuid="{757a91be-0ef7-430f-b4b1-74f6d01aa78a}"/>
-        <terminal name="" orientation="e" y="0" type="Generic" x="40" uuid="{1e236221-c43a-4cc3-a6eb-fcdcc1d1ce1b}"/>
-        <terminal name="" orientation="w" y="10" type="Generic" x="-40" uuid="{5f89fb75-3f99-4c0a-9c45-5fed6144cd88}"/>
-        <terminal name="" orientation="s" y="30" type="Generic" x="20" uuid="{ce32a3f3-04d0-478b-8def-9b899f699a5c}"/>
+        <rect y="-65" ry="0" rx="0" width="137" style="line-style:normal;line-weight:normal;filling:none;color:black" height="130" antialias="false" x="-67"/>
+        <terminal y="-40" type="Generic" uuid="{757a91be-0ef7-430f-b4b1-74f6d01aa78a}" name="" x="-71" orientation="w"/>
+        <terminal y="30" type="Generic" uuid="{5f89fb75-3f99-4c0a-9c45-5fed6144cd88}" name="" x="-71" orientation="w"/>
+        <terminal y="70" type="Generic" uuid="{ce32a3f3-04d0-478b-8def-9b899f699a5c}" name="" x="45" orientation="s"/>
+        <terminal y="-50" type="Generic" uuid="{1e236221-c43a-4cc3-a6eb-fcdcc1d1ce1b}" name="" x="75" orientation="e"/>
     </description>
 </definition>

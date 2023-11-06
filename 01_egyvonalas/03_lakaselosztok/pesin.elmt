@@ -1,0 +1,12 @@
+<definition type="element" version="0.90" width="50" height="20" hotspot_x="24" hotspot_y="10" link_type="simple">
+    <uuid uuid="{9f35397e-e72c-45bc-a507-ac46ed4b5093}"/>
+    <names>
+        <name lang="hu">PE sín</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect y="-4" ry="0" rx="0" width="41" style="line-style:normal;line-weight:normal;filling:none;color:black" height="8" antialias="false" x="-20"/>
+        <text y="2" text="PE" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" x="-3" color="#000000"/>
+    </description>
+</definition>

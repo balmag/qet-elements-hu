@@ -1,0 +1,12 @@
+<definition type="element" version="0.90" width="50" height="20" hotspot_x="24" hotspot_y="10" link_type="simple">
+    <uuid uuid="{e0bb4053-2add-43bf-9cd9-b408de45d1bf}"/>
+    <names>
+        <name lang="hu">N sín</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect y="-4" ry="0" rx="0" width="39" style="line-style:normal;line-weight:normal;filling:none;color:black" height="8" antialias="false" x="-19"/>
+        <text y="2" text="N" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" x="-2" color="#000000"/>
+    </description>
+</definition>

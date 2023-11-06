@@ -1,0 +1,33 @@
+<definition type="element" version="0.90" width="50" height="50" hotspot_x="20" hotspot_y="24" link_type="simple">
+    <uuid uuid="{d2b5e888-38ba-4c2f-a1c8-32fab1d55eeb}"/>
+    <names>
+        <name lang="hu">Finder Lépcsőházi automata</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line end2="none" end1="none" x2="-9" y1="-11" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-9" length1="1.5" length2="1.5" antialias="false" x1="-9"/>
+        <rect y="-10" ry="0" rx="0" width="20" style="line-style:normal;line-weight:normal;filling:none;color:black" height="0" antialias="false" x="-10"/>
+        <text y="-11.3163" text="4" font="Sans Serif,3,-1,5,50,0,0,0,0,0" rotation="0" x="15.8945" color="#000000"/>
+        <text y="-11.8437" text="3" font="Sans Serif,3,-1,5,50,0,0,0,0,0" rotation="0" x="0.0390625" color="#000000"/>
+        <text y="-12.8984" text="N" font="Sans Serif,3,-1,5,50,0,0,0,0,0" rotation="0" x="-13.125" color="#000000"/>
+        <circle y="-13" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="2" x="19"/>
+        <circle y="-13" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="2" x="3"/>
+        <circle y="-13" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="2" x="-10"/>
+        <line end2="none" end1="none" x2="4" y1="-11" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-9" length1="1.5" length2="1.5" antialias="false" x1="4"/>
+        <rect y="-8" ry="0" rx="0" width="7" style="line-style:normal;line-weight:normal;filling:bdiag;color:black" height="16" antialias="false" x="-13"/>
+        <rect y="-8" ry="0" rx="0" width="19" style="line-style:normal;line-weight:normal;filling:none;color:black" height="16" antialias="false" x="-6"/>
+        <polygon x2="17" y1="6" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="3" x3="24" antialias="false" y3="-6" closed="false" x1="17"/>
+        <polygon x2="20" y1="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-7" x3="20" antialias="false" y3="-11" closed="false" x1="21"/>
+        <circle y="6" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" diameter="2" x="16"/>
+        <line end2="none" end1="none" x2="16" y1="7" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="7" length1="1.5" length2="1.5" antialias="false" x1="13"/>
+        <line end2="none" end1="none" x2="18" y1="1" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="1" length1="1.5" length2="1.5" antialias="false" x1="13"/>
+        <line end2="none" end1="none" x2="-9" y1="9" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="11" length1="1.5" length2="1.5" antialias="false" x1="-9"/>
+        <circle y="11" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="2" x="-10"/>
+        <text y="15.0508" text="L" font="Sans Serif,3,-1,5,50,0,0,0,0,0" rotation="0" x="-12.5273" color="#000000"/>
+        <terminal y="17" type="Generic" uuid="{6603c4af-ea12-4e16-b2b9-9299e8695efc}" name="" x="-9" orientation="s"/>
+        <terminal y="-17" type="Generic" uuid="{ec4a25ce-8800-4ce1-9328-58e7cfe1fdf6}" name="" x="4" orientation="n"/>
+        <terminal y="-17" type="Generic" uuid="{3c72aa29-47d6-4411-a73d-e2537fa9c22c}" name="" x="-9" orientation="n"/>
+        <terminal y="-17" type="Generic" uuid="{3b15cb1d-7025-4942-8b14-cd539da80a37}" name="" x="20" orientation="n"/>
+    </description>
+</definition>
