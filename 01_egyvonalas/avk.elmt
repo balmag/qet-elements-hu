@@ -1,0 +1,19 @@
+<definition version="0.90" hotspot_y="33" hotspot_x="16" width="40" type="element" height="60" link_type="simple">
+    <uuid uuid="{c9d54870-ea33-4a1f-89fb-67d215268bad}"/>
+    <names>
+        <name lang="hu">ÁVK</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <ellipse style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y="2" width="24" height="10" x="-12"/>
+        <polygon closed="false" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x2="0" y2="-3" y1="19" x3="-10" x1="0" y3="-14"/>
+        <polygon y5="7" closed="false" x4="13" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y4="7" x5="12" x2="19" y2="-11" y1="-11" x3="19" x1="19" y3="7"/>
+        <polygon closed="false" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x2="1.5" y2="-17.3" y1="-20.3" x1="-1.5"/>
+        <polygon closed="false" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x2="-1.5" y2="-17.3" y1="-20.3" x1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x2="0" y2="-26" length1="1.5" end1="none" y1="-20" x1="0" end2="none" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x2="-5" y2="-11" length1="1.5" end1="none" y1="-11" x1="19" end2="simple" length2="1.5"/>
+        <terminal name="" orientation="n" y="-26" type="Generic" x="0" uuid="{d466c893-2dfa-486f-9983-53b1a00b1847}"/>
+        <terminal name="" orientation="s" y="19" type="Generic" x="0" uuid="{316fc20e-57fc-423e-ad08-55021cfae019}"/>
+    </description>
+</definition>

@@ -1,0 +1,18 @@
+<definition version="0.90" hotspot_y="19" hotspot_x="13" width="30" type="element" height="40" link_type="simple">
+    <uuid uuid="{8de47884-962d-4df2-9be4-621d23b37206}"/>
+    <names>
+        <name lang="hu">Teljesítmény mérő</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="20" y="-10" x="-10"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x2="-10.9951" y2="14.2383" length1="1.5" end1="none" y1="8.47266" x1="-6.3457" end2="none" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x2="13.6055" y2="-15.5039" length1="1.5" end1="none" y1="-8.18848" x1="7.23145" end2="simple" length2="1.5"/>
+        <text text="P" color="#000000" rotation="0" y="4.25727" font="Sans Serif,12,-1,5,50,0,0,0,0,0" x="-4.07212"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x2="0" y2="-14" length1="1.5" end1="none" y1="-10" x1="0" end2="none" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x2="0" y2="15" length1="1.5" end1="none" y1="10" x1="0" end2="none" length2="1.5"/>
+        <terminal name="" orientation="s" y="15" type="Generic" x="0" uuid="{14ab19f0-6fe2-4747-a7f0-6523159ddb42}"/>
+        <terminal name="" orientation="n" y="-14" type="Generic" x="0" uuid="{9ef263b8-cdb1-45ce-83b8-5491c9fd7ed1}"/>
+    </description>
+</definition>
