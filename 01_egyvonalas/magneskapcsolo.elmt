@@ -1,0 +1,42 @@
+<definition link_type="simple" width="40" version="0.90" type="element" height="40" hotspot_x="17" hotspot_y="19">
+    <uuid uuid="{ac910b8c-1975-4ced-95f9-d1cbe698ea9b}"/>
+    <names>
+        <name lang="hu">Mágneskapcsoló</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text x="-8.11865" rotation="0" y="11.7712" text="A2" color="#000000" font="Sans Serif,2,-1,5,50,0,0,0,0,0"/>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" x="-14" y="-6" rx="0" antialias="false" width="8" height="12" ry="0"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" x="-1" y="-10" antialias="false" diameter="2"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" x="13" y="-10" antialias="false" diameter="2"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" x="-1" y="8" antialias="false" diameter="2"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" x="6" y="-10" antialias="false" diameter="2"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" x="13" y="8" antialias="false" diameter="2"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" x="6" y="8" antialias="false" diameter="2"/>
+        <line end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-8" length2="1.5" end1="none" x2="-10" antialias="false" x1="-10" length1="1.5" y1="-6"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" y2="3" x2="14" antialias="false" y3="-6" x1="14" closed="false" y1="6" x3="19"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" y2="3" x2="7" antialias="false" y3="-6" x1="7" closed="false" y1="6" x3="12"/>
+        <line end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="8" length2="1.5" end1="none" x2="-10" antialias="false" x1="-10" length1="1.5" y1="6"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-6" x2="14" antialias="false" y3="-8" x1="15" closed="false" y1="-6" x3="14"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-6" x2="7" antialias="false" y3="-8" x1="8" closed="false" y1="-6" x3="7"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" y2="5" x2="14" antialias="false" x1="14" closed="false" y1="8"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" x="-11" y="-10" antialias="false" diameter="2"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" y2="5" x2="7" antialias="false" x1="7" closed="false" y1="8"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" x="-11" y="8" antialias="false" diameter="2"/>
+        <text x="-12.5995" rotation="0" y="3.40045" text="K" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" y2="3" x2="0" antialias="false" y3="-6" x1="0" closed="false" y1="6" x3="5"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-6" x2="0" antialias="false" y3="-8" x1="1" closed="false" y1="-6" x3="0"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" y2="5" x2="0" antialias="false" x1="0" closed="false" y1="8"/>
+        <line end2="none" style="line-style:dashed;line-weight:normal;filling:none;color:black" y2="0" length2="1.5" end1="none" x2="15" antialias="false" x1="-6" length1="1.5" y1="0"/>
+        <text x="-8.21069" rotation="0" y="-6.57617" text="A1" color="#000000" font="Sans Serif,2,-1,5,50,0,0,0,0,0"/>
+        <terminal x="0" y="14" type="Generic" orientation="s" uuid="{e1600f1a-dcb0-4411-abe6-ec1126d206d6}" name=""/>
+        <terminal x="-10" y="-14" type="Generic" orientation="n" uuid="{8097fb60-b5ae-4ec5-8b0a-a58d13afe9f4}" name=""/>
+        <terminal x="0" y="-14" type="Generic" orientation="n" uuid="{e4f963f0-3713-4b07-b7ae-f97576795f09}" name=""/>
+        <terminal x="-10" y="14" type="Generic" orientation="s" uuid="{e3ca0a61-4b3c-427b-9356-bdd185e6ce74}" name=""/>
+        <terminal x="7" y="-14" type="Generic" orientation="n" uuid="{6dba4945-f261-470c-a5a7-b772eab2faab}" name=""/>
+        <terminal x="14" y="14" type="Generic" orientation="s" uuid="{9af6de5f-cda5-4727-9267-a8abd83938a3}" name=""/>
+        <terminal x="7" y="14" type="Generic" orientation="s" uuid="{85814271-c647-47ab-be27-aa57dcb22a00}" name=""/>
+        <terminal x="14" y="-14" type="Generic" orientation="n" uuid="{b28eb841-2a68-446f-a558-c8adb0092723}" name=""/>
+    </description>
+</definition>
