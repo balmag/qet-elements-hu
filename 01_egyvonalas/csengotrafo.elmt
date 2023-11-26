@@ -1,0 +1,24 @@
+<definition height="70" hotspot_y="36" version="0.90" type="element" link_type="simple" width="30" hotspot_x="15">
+    <uuid uuid="{e45da010-0c5d-4dfd-b3d6-39426a4cc930}"/>
+    <names>
+        <name lang="hu">Csengőtrafó</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <ellipse antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" height="22" width="26" y="-20" x="-13"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="19" x="5" diameter="2"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="19" x="-7" diameter="2"/>
+        <ellipse antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" height="23" width="26" y="-5" x="-13"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-24" x="4" diameter="2"/>
+        <line antialias="false" x1="-6" y1="-19" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-22" length1="1.5" end2="none" x2="-6" end1="none"/>
+        <line antialias="false" x1="5" y1="-20" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-22" length1="1.5" end2="none" x2="5" end1="none"/>
+        <line antialias="false" x1="-6" y1="17" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="19" length1="1.5" end2="none" x2="-6" end1="none"/>
+        <line antialias="false" x1="6" y1="17" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="19" length1="1.5" end2="none" x2="6" end1="none"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-24" x="-7" diameter="2"/>
+        <terminal orientation="n" name="" type="Generic" uuid="{4d0bc563-022b-46a5-aa5f-3daf0006a22d}" y="-28" x="5"/>
+        <terminal orientation="s" name="" type="Generic" uuid="{9887c657-1b11-4300-905d-2738c8921e7c}" y="25" x="-6"/>
+        <terminal orientation="s" name="" type="Generic" uuid="{e2e974c6-9bf8-4f95-8544-501ff07e6a11}" y="25" x="6"/>
+        <terminal orientation="n" name="" type="Generic" uuid="{551a60ac-44c9-4f74-9d25-b77f0b9c00da}" y="-28" x="-6"/>
+    </description>
+</definition>
