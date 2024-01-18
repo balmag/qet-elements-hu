@@ -6,6 +6,7 @@ Kategorizáltan elkészült vektorgrafikus objektumok szabadon letölthetők, m�
 - Egyvonalas rajzjelek
 - Áramutas rajzjelek
 - Szerelési rajzjelek
+- Vezérléshez használt rajzjelek
 
 ## Rajzjelek telepítése
 
