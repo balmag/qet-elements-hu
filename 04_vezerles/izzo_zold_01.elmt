@@ -1,0 +1,38 @@
+<definition link_type="simple" hotspot_x="14" width="30" type="element" height="60" hotspot_y="30" version="0.90">
+    <uuid uuid="{bb7faf37-f3b4-4fa9-b01b-eb88b52abc56}"/>
+    <names>
+        <name lang="de">Lampe, grün</name>
+        <name lang="fr">Lampe</name>
+        <name lang="ca">Lum verda</name>
+        <name lang="es">Lámpara verde</name>
+        <name lang="cs">Kontrolka</name>
+        <name lang="pt">Lâmpada</name>
+        <name lang="hu">Izzó (zöld)</name>
+        <name lang="en">Light</name>
+        <name lang="ru">Лампа</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <circle antialias="false" diameter="4" y="13" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-2"/>
+        <text color="#000000" text="X1" y="-14" x="3" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <line x1="0" end2="none" antialias="false" length2="1.5" y2="13" y1="-11" length1="1.5" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <circle antialias="true" diameter="17" y="-8.5" style="line-style:normal;line-weight:normal;filling:green;color:black" x="-8.5"/>
+        <line x1="6.22" end2="none" antialias="false" length2="1.5" y2="5.12" y1="-5.33" length1="1.5" x2="-6.14" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <dynamic_text keep_visual_rotation="false" Valignment="AlignTop" uuid="{5e3bea5c-4602-45c1-9dca-be100942ed3f}" y="-8.5" z="5" text_from="UserText" Halignment="AlignLeft" frame="false" x="15" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text_width="-1" rotation="0">
+            <text></text>
+        </dynamic_text>
+        <line x1="-6.14" end2="none" antialias="false" length2="1.5" y2="5.12" y1="-5.33" length1="1.5" x2="6.22" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <dynamic_text keep_visual_rotation="false" Valignment="AlignTop" uuid="{add0969f-5504-4c50-bbc3-3f2183db4025}" y="21" z="6" text_from="ElementInfo" Halignment="AlignLeft" frame="false" x="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text_width="-1" rotation="0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <circle antialias="false" diameter="4" y="-18" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-2"/>
+        <ellipse antialias="false" y="-14" width="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="0" height="2"/>
+        <ellipse antialias="false" y="-13" width="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="0" height="2"/>
+        <text color="#000000" text="X2" y="17" x="3" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <terminal uuid="{a18642fe-cb88-46c0-a178-1ec47b939b27}" name="" y="-22" orientation="n" x="0" type="Generic"/>
+        <terminal uuid="{78c445e3-750a-444b-80c3-62f11922386c}" name="" y="21" orientation="s" x="0" type="Generic"/>
+    </description>
+</definition>

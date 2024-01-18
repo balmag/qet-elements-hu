@@ -1,0 +1,39 @@
+<definition link_type="master" hotspot_x="12" width="20" type="element" height="60" hotspot_y="30" version="0.90">
+    <uuid uuid="{ab6278dc-3dfb-4f45-9fe1-35cd0f98d6ab}"/>
+    <names>
+        <name lang="de">Drucktaster Öffner</name>
+        <name lang="fr">Bouton poussoir (NF)</name>
+        <name lang="es">Pulsador (NC)</name>
+        <name lang="it">Pulsante (NC)</name>
+        <name lang="cs">Tlačítko (NC)</name>
+        <name lang="pl">Łącznik przyciskowy z powrotem samoczynnym</name>
+        <name lang="el">Μπουτόν, κλειστή επαφή</name>
+        <name lang="ar">زرّ ضاغط (NC)</name>
+        <name lang="pt">Botão de pressão (NC)</name>
+        <name lang="nl">Drukknop (NC)</name>
+        <name lang="hu">Nyomógomb (NC)</name>
+        <name lang="en">Push-button (NC)</name>
+        <name lang="ru">Кнопка (НЗ)</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <circle antialias="false" diameter="4" y="16" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-2"/>
+        <polygon x1="5" antialias="true" y2="10" y1="-10" closed="false" x3="0" y3="16" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="0" end2="none" antialias="false" length2="1.5" y2="-9" y1="-9" length1="1.5" x2="6" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line x1="0" end2="none" antialias="false" length2="1.5" y2="-9" y1="-17" length1="1.5" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <dynamic_text keep_visual_rotation="false" Valignment="AlignTop" uuid="{818806e9-1e18-4717-a22b-72f3bcf77a60}" y="-9" z="4" text_from="ElementInfo" Halignment="AlignLeft" frame="false" x="14" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text_width="-1" rotation="0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-10" end2="none" antialias="false" length2="1.5" y2="0" y1="0" length1="1.5" x2="2" style="line-style:dashed;line-weight:thin;filling:none;color:black" end1="none"/>
+        <polygon x1="-7" y4="5" antialias="false" y2="-5" y1="-5" closed="false" x4="-7" x3="-10" y3="5" x2="-10" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <circle antialias="false" diameter="4" y="-21" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-2"/>
+        <terminal uuid="{1c453ce7-945f-470c-82ba-f3ee903eecab}" name="" y="24" orientation="s" x="0" type="Generic"/>
+        <terminal uuid="{b7871b40-d31f-4a39-8d5a-02aa26f80df1}" name="" y="-25" orientation="n" x="0" type="Generic"/>
+    </description>
+</definition>

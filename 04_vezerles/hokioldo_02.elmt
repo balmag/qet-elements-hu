@@ -1,0 +1,15 @@
+<definition link_type="simple" hotspot_x="29" width="60" type="element" height="20" hotspot_y="12" version="0.90">
+    <uuid uuid="{a13906bf-83c3-49e0-a9d2-22954cb9ccdd}"/>
+    <names>
+        <name lang="hu">Hőkioldó érzékelőelem</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle antialias="false" diameter="3" y="-1.61551" style="line-style:normal;line-weight:normal;filling:none;color:black" x="16.5593"/>
+        <circle antialias="false" diameter="3" y="-1.61551" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-19.4407"/>
+        <polygon x1="-16" y4="-6" antialias="false" y2="0" y1="0" closed="false" x4="6" x3="-7" y3="-6" x2="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" y5="0" x5="6" x6="16" y6="0"/>
+        <terminal uuid="{c1e1b656-6926-41a6-bfdc-90179f5ecc29}" name="" y="0" orientation="e" x="24" type="Generic"/>
+        <terminal uuid="{57dce217-e99b-4ec3-8416-98d86d54270c}" name="" y="0" orientation="w" x="-24" type="Generic"/>
+    </description>
+</definition>
