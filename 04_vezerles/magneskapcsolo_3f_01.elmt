@@ -1,0 +1,43 @@
+<definition hotspot_x="28" hotspot_y="29" link_type="simple" version="0.90" width="60" type="element" height="60">
+    <uuid uuid="{f063dee5-9a0d-4b58-a4a9-ee17b416b0a4}"/>
+    <names>
+        <name lang="hu">Mágneskapcsoló 3f</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle antialias="false" y="15.5" diameter="4" x="-22" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" y="15.5" diameter="4" x="-2" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" y="15.5" diameter="4" x="18" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x3="0" antialias="true" y2="10" y3="15" x1="5.375" x2="0" closed="false" y1="-9.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x3="-20" antialias="true" y2="10.5" y3="15.5" x1="-14.375" x2="-20" closed="false" y1="-9" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x3="20" antialias="true" y2="10.5" y3="15.5" x1="26" x2="20" closed="false" y1="-10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" y="-20" diameter="4" x="18" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text uuid="{11671370-fac8-4209-86af-ecfa452744bb}" y="-16.5" z="3" rotation="0" Valignment="AlignTop" text_from="ElementInfo" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" Halignment="AlignLeft" text_width="-1" keep_visual_rotation="false" x="-11.75">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text uuid="{11671370-fac8-4209-86af-ecfa452744bb}" y="-17" z="3" rotation="0" Valignment="AlignTop" text_from="ElementInfo" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" Halignment="AlignLeft" text_width="-1" keep_visual_rotation="false" x="8">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <circle antialias="false" y="-20" diameter="4" x="-22" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" y="-20" diameter="4" x="-2" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x3="20" antialias="false" y2="-11" y3="-10" x1="20" x2="20" closed="false" y1="-16" x4="21.5693" y4="-9.99443" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x3="-20" antialias="false" y2="-11" y3="-10" x1="-20" x2="-20" closed="false" y1="-16" x4="-18.4307" y4="-9.99443" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x3="0" antialias="false" y2="-11" y3="-10" x1="0" x2="0" closed="false" y1="-16" x4="1.56927" y4="-9.99443" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" end2="none" y2="24" x1="20" x2="20" length2="1.5" y1="20" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" end2="none" y2="-20" x1="20" x2="20" length2="1.5" y1="-24" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" end2="none" y2="24" x1="0" x2="0" length2="1.5" y1="20" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" end2="none" y2="24" x1="-20" x2="-20" length2="1.5" y1="20" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" end2="none" y2="-20" x1="0" x2="0" length2="1.5" y1="-24" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" end2="none" y2="-20" x1="-20" x2="-20" length2="1.5" y1="-24" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" end2="none" y2="0" x1="-16" x2="22" length2="1.5" y1="0" end1="none" style="line-style:dashed;line-weight:thin;filling:none;color:black"/>
+        <terminal uuid="{0a1b861c-dea8-4b12-8b99-9afa35b43630}" y="24" name="" type="Generic" orientation="s" x="0"/>
+        <terminal uuid="{33de7645-3a49-469b-a2f6-e6614d80cbf3}" y="-24" name="" type="Generic" orientation="n" x="0"/>
+        <terminal uuid="{e866161e-a548-4e10-bb35-87af2386018c}" y="24" name="" type="Generic" orientation="s" x="-20"/>
+        <terminal uuid="{eb80692c-01a0-42f5-a04f-7a49598c9ffc}" y="-24" name="" type="Generic" orientation="n" x="-20"/>
+        <terminal uuid="{04d93fae-4191-4c7d-9f01-00327f25dfcc}" y="-24" name="" type="Generic" orientation="n" x="20"/>
+        <terminal uuid="{c87194ea-9667-4273-af18-09e003f569f7}" y="24" name="" type="Generic" orientation="s" x="20"/>
+    </description>
+</definition>

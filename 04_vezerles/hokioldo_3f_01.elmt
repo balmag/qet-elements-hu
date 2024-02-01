@@ -1,0 +1,58 @@
+<definition hotspot_x="47" hotspot_y="35" link_type="simple" version="0.90" width="90" type="element" height="70">
+    <uuid uuid="{55f3e52f-7641-490a-8906-fdc8167055e0}"/>
+    <names>
+        <name lang="hu">Hőkioldó érzékelőelem 3f</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle antialias="true" y="-21.72" diameter="5" x="17.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text uuid="{ce3da157-10b7-4e01-b8d2-5da7f68925b1}" y="16" z="1" rotation="0" Valignment="AlignTop" text_from="UserText" font="Verdana,6,-1,5,50,0,0,0,0,0,Regular" frame="false" Halignment="AlignLeft" text_width="-1" keep_visual_rotation="false" x="-14">
+            <text>T2</text>
+        </dynamic_text>
+        <circle antialias="true" y="-21.72" diameter="5" x="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text uuid="{ce3da157-10b7-4e01-b8d2-5da7f68925b1}" y="16" z="2" rotation="0" Valignment="AlignTop" text_from="UserText" font="Verdana,6,-1,5,50,0,0,0,0,0,Regular" frame="false" Halignment="AlignLeft" text_width="-1" keep_visual_rotation="false" x="-34">
+            <text>T1</text>
+        </dynamic_text>
+        <circle antialias="true" y="16.28" diameter="5" x="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="true" y="-21.72" diameter="5" x="-22.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="true" y="16.28" diameter="5" x="17.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="true" y="16.28" diameter="5" x="-22.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x3="25.5" y5="6" antialias="false" y2="-7" x6="20" y3="-7" x1="20" x2="20" closed="false" y1="-16" x4="25.5" y4="6" x5="20" style="line-style:normal;line-weight:normal;filling:none;color:black" y6="16"/>
+        <polygon x3="-14.5" y5="6" antialias="false" y2="-7" x6="-20" y3="-7" x1="-20" x2="-20" closed="false" y1="-16" x4="-14.5" y4="6" x5="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" y6="16"/>
+        <line length1="1.5" antialias="false" end2="none" y2="26" x1="-20" x2="-20" length2="1.5" y1="22" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" end2="none" y2="26" x1="20" x2="20" length2="1.5" y1="22" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" end2="none" y2="-22" x1="-20" x2="-20" length2="1.5" y1="-26" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" end2="none" y2="-22" x1="20" x2="20" length2="1.5" y1="-26" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x3="6" y5="6" antialias="false" y2="-7" x6="0" y3="-7" x1="0" x2="0" closed="false" y1="-16" x4="6" y4="6" x5="0" style="line-style:normal;line-weight:normal;filling:none;color:black" y6="16"/>
+        <line length1="1.5" antialias="false" end2="none" y2="26" x1="0" x2="0" length2="1.5" y1="22" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" end2="none" y2="-22" x1="0" x2="0" length2="1.5" y1="-26" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect antialias="false" y="-30" rx="0" width="78" ry="0" height="60" x="-41" style="line-style:dashed;line-weight:thin;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" end2="none" y2="0" x1="-13" x2="25" length2="1.5" y1="0" end1="none" style="line-style:dashed;line-weight:thin;filling:none;color:black"/>
+        <dynamic_text uuid="{5b146f38-9c8c-410e-827c-456cac6fe424}" y="69.75" z="38" rotation="0" Valignment="AlignTop" text_from="ElementInfo" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" Halignment="AlignLeft" text_width="-1" keep_visual_rotation="true" x="-53.9297">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text uuid="{ce3da157-10b7-4e01-b8d2-5da7f68925b1}" y="-22" z="43" rotation="0" Valignment="AlignTop" text_from="UserText" font="Verdana,6,-1,5,50,0,0,0,0,0,Regular" frame="false" Halignment="AlignLeft" text_width="-1" keep_visual_rotation="false" x="-14">
+            <text>L2</text>
+        </dynamic_text>
+        <dynamic_text uuid="{ce3da157-10b7-4e01-b8d2-5da7f68925b1}" y="-22" z="44" rotation="0" Valignment="AlignTop" text_from="UserText" font="Verdana,6,-1,5,50,0,0,0,0,0,Regular" frame="false" Halignment="AlignLeft" text_width="-1" keep_visual_rotation="false" x="6">
+            <text>L3</text>
+        </dynamic_text>
+        <dynamic_text uuid="{ce3da157-10b7-4e01-b8d2-5da7f68925b1}" y="-22" z="45" rotation="0" Valignment="AlignTop" text_from="UserText" font="Verdana,6,-1,5,50,0,0,0,0,0,Regular" frame="false" Halignment="AlignLeft" text_width="-1" keep_visual_rotation="false" x="-34">
+            <text>L1</text>
+        </dynamic_text>
+        <dynamic_text uuid="{ce3da157-10b7-4e01-b8d2-5da7f68925b1}" y="16" z="46" rotation="0" Valignment="AlignTop" text_from="UserText" font="Verdana,6,-1,5,50,0,0,0,0,0,Regular" frame="false" Halignment="AlignLeft" text_width="-1" keep_visual_rotation="false" x="6">
+            <text>T3</text>
+        </dynamic_text>
+        <dynamic_text uuid="{14e6a3c3-42f5-4272-985e-1cf356ed8d87}" y="-8" z="47" rotation="0" Valignment="AlignTop" text_from="UserText" font="Verdana,8,-1,5,50,0,0,0,0,0,Regular" frame="false" Halignment="AlignLeft" text_width="-1" keep_visual_rotation="false" x="-40">
+            <text>Q_</text>
+        </dynamic_text>
+        <terminal uuid="{b31dbeb8-e621-45ad-9edb-b8702c20906c}" y="-26" name="" type="Generic" orientation="n" x="20"/>
+        <terminal uuid="{02ce01cc-7772-4bd9-8ec5-6b6c7cf9d53c}" y="-26" name="" type="Generic" orientation="n" x="0"/>
+        <terminal uuid="{fa3a4eb6-4c6f-4823-bcd0-49ce289a6c3b}" y="26" name="" type="Generic" orientation="s" x="20"/>
+        <terminal uuid="{5b4a7260-9a21-42ec-b13c-67a826c3efa5}" y="26" name="" type="Generic" orientation="s" x="-20"/>
+        <terminal uuid="{446b7096-1bbd-4615-8f1a-243d7bbe520a}" y="-26" name="" type="Generic" orientation="n" x="-20"/>
+        <terminal uuid="{95c7cc97-0778-47bf-ac30-014b50de26cf}" y="26" name="" type="Generic" orientation="s" x="0"/>
+    </description>
+</definition>

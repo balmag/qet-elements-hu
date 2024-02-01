@@ -1,0 +1,50 @@
+<definition hotspot_x="24" hotspot_y="36" link_type="simple" version="0.90" width="70" type="element" height="60">
+    <uuid uuid="{9809a39b-5832-45ad-87b7-09a41750bf14}"/>
+    <names>
+        <name lang="en">AC MOTOR 3-Phases</name>
+        <name lang="hu">AC MOTOR 3 fázis</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <circle antialias="true" y="-22.5" diameter="5" x="37.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="true" y="-22.5" diameter="5" x="17.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="true" y="-22.5" diameter="5" x="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" end2="none" y2="-23" x1="0" x2="0" length2="1.5" y1="-32" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" end2="none" y2="-23" x1="40" x2="40" length2="1.5" y1="-32" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" end2="none" y2="-23" x1="20" x2="20" length2="1.5" y1="-32" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" end2="none" y2="-23" x1="-20" x2="-20" length2="1.5" y1="-32" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="true" y="-22.5" diameter="5" x="-22.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="true" y="-10" diameter="30" x="-15" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc angle="-80" antialias="true" y="-12.5" width="35" start="20" height="35" x="-17.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text y="3" rotation="0" text="M" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" x="-5"/>
+        <text y="11" rotation="0" text="3 ~" font="Sans Serif,7,-1,5,50,0,0,0,0,0" color="#000000" x="-6"/>
+        <rect antialias="false" y="13" rx="0" width="8" ry="0" height="2" x="-4" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect antialias="false" y="13" rx="0" width="4" ry="0" height="2" x="-4" style="line-style:normal;line-weight:thin;filling:black;color:black"/>
+        <line length1="1.5" antialias="false" end2="none" y2="-10" x1="0" x2="0" length2="1.5" y1="-17" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x3="-12" y5="-4" antialias="false" y2="-10" y3="-4" x1="-20" x2="-20" closed="false" y1="-17" x4="-12" y4="-4" x5="-12" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x3="12" y5="-4" antialias="false" y2="-10" y3="-4" x1="20" x2="20" closed="false" y1="-17" x4="12" y4="-4" x5="12" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x3="40.4" y5="-17" antialias="false" y2="14" y3="-17" x1="15.4" x2="40.4" closed="false" y1="14" x4="40.4" y4="-17" x5="40.4" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text uuid="{5b146f38-9c8c-410e-827c-456cac6fe424}" y="-5" z="28" rotation="0" Valignment="AlignTop" text_from="ElementInfo" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" Halignment="AlignLeft" text_width="-1" keep_visual_rotation="true" x="-50">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text uuid="{b34c75b8-5906-4909-873d-508191eed528}" y="-24" z="29" rotation="0" Valignment="AlignTop" text_from="UserText" font="Verdana,8,-1,5,50,0,0,0,0,0,Regular" frame="false" Halignment="AlignLeft" text_width="-1" keep_visual_rotation="false" x="-21">
+            <text>U</text>
+        </dynamic_text>
+        <dynamic_text uuid="{881b2112-b52d-4c80-8cab-e035517cf3ab}" y="-24" z="30" rotation="0" Valignment="AlignTop" text_from="UserText" font="Verdana,8,-1,5,50,0,0,0,0,0,Regular" frame="false" Halignment="AlignLeft" text_width="-1" keep_visual_rotation="false" x="0">
+            <text>V</text>
+        </dynamic_text>
+        <dynamic_text uuid="{e496e2a5-a20a-470f-b4e0-ff555ac13bb8}" y="-23" z="31" rotation="0" Valignment="AlignTop" text_from="UserText" font="Verdana,8,-1,5,50,0,0,0,0,0,Regular" frame="false" Halignment="AlignLeft" text_width="-1" keep_visual_rotation="false" x="19">
+            <text>W</text>
+        </dynamic_text>
+        <dynamic_text uuid="{faa1d9b4-1c9d-45e6-a523-5be25d6f8b3f}" y="-24" z="32" rotation="0" Valignment="AlignTop" text_from="UserText" font="Verdana,8,-1,5,50,0,0,0,0,0,Regular" frame="false" Halignment="AlignLeft" text_width="-1" keep_visual_rotation="false" x="40">
+            <text>PE</text>
+        </dynamic_text>
+        <terminal uuid="{e8bb31e4-4ca5-4fae-b808-9bb2b7e0c9e7}" y="-32" name="" type="Generic" orientation="n" x="20"/>
+        <terminal uuid="{2ea94d89-bafb-44a2-a1bf-83fd0ff9f812}" y="-32" name="" type="Generic" orientation="n" x="0"/>
+        <terminal uuid="{bbccc037-e33c-4d18-b0a5-70d974a70a97}" y="-32" name="" type="Generic" orientation="n" x="-20"/>
+        <terminal uuid="{15965b87-42b8-4a5e-9f00-5cef3e190ad3}" y="-32" name="" type="Generic" orientation="n" x="40"/>
+    </description>
+</definition>

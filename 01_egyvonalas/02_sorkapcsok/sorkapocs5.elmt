@@ -1,0 +1,36 @@
+<definition hotspot_x="4" hotspot_y="14" link_type="terminal" version="0.90" width="10" type="element" height="20">
+    <uuid uuid="{3e865cb6-a215-431b-be1b-ab91feef4f29}"/>
+    <names>
+        <name lang="en">Terminal block</name>
+        <name lang="hu">Sorkapocs üres</name>
+        <name lang="ar">طرف نهائي</name>
+        <name lang="ru">Клеммник</name>
+        <name lang="pt">Terminal de fim</name>
+        <name lang="fr">Borne finale</name>
+        <name lang="cs">Koncová svorka</name>
+        <name lang="es">Punto de unión</name>
+        <name lang="it">Terminale di fine</name>
+        <name lang="nl">Klem eind</name>
+        <name lang="de">Endklemme</name>
+        <name lang="pl">Zacisk</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">generic</kindInformation>
+        <kindInformation name="function">generic</kindInformation>
+    </kindInformations>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text uuid="{cc639f71-eafe-49ab-b8fc-8a44763312e7}" y="-1.5" z="1" rotation="0" Valignment="AlignTop" text_from="UserText" font="Sans Serif,7,-1,5,50,0,0,0,0,0" frame="false" Halignment="AlignLeft" text_width="-1" keep_visual_rotation="false" x="5">
+            <text>_</text>
+        </dynamic_text>
+        <dynamic_text uuid="{dd61d880-e6ed-4239-aa1f-38e415456be2}" y="-17" z="2" rotation="0" Valignment="AlignTop" text_from="ElementInfo" font="Sans Serif,10,-1,5,50,0,0,0,0,0" frame="false" Halignment="AlignLeft" text_width="-1" keep_visual_rotation="false" x="5">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line length1="1.5" antialias="false" end2="none" y2="-3" x1="0" x2="0" length2="1.5" y1="-10" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="true" y="-2.5" diameter="5" x="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal uuid="{6725d962-cfec-439b-af01-624356c75b08}" y="-10" name="" type="Generic" orientation="n" x="0"/>
+    </description>
+</definition>

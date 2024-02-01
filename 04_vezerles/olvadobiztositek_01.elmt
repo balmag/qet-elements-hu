@@ -1,0 +1,30 @@
+<definition hotspot_x="10" hotspot_y="39" link_type="simple" version="0.90" width="20" type="element" height="80">
+    <uuid uuid="{707c83c3-7702-426c-8f6b-9fce4807fcc8}"/>
+    <names>
+        <name lang="en">Fuse, general symbol</name>
+        <name lang="hu">Olvadóbiztosíték</name>
+        <name lang="fr">Fusible, symbole général</name>
+        <name lang="cs">Tavná pojistka, všeobecná značka</name>
+        <name lang="de">Sicherung, allgemein</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <circle antialias="false" y="23" diameter="4" x="-2" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text uuid="{d0f1690f-3992-4657-9d21-38561fadc7f6}" y="15.5" z="1" rotation="0" Valignment="AlignTop" text_from="ElementInfo" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" Halignment="AlignLeft" text_width="-1" keep_visual_rotation="false" x="5">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line length1="1.5" antialias="false" end2="none" y2="23" x1="0" x2="0" length2="1.5" y1="-23" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect antialias="false" y="-15" rx="0" width="10" ry="0" height="30" x="-5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" y="-27" diameter="4" x="-2" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" end2="none" y2="31" x1="0" x2="0" length2="1.5" y1="27" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" end2="none" y2="-27" x1="0" x2="0" length2="1.5" y1="-31" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text uuid="{cf47ea6f-b848-40f7-b74f-90ffb3381c15}" y="-10" z="18" rotation="0" Valignment="AlignTop" text_from="UserText" font="Verdana,8,-1,5,50,0,0,0,0,0,Regular" frame="false" Halignment="AlignLeft" text_width="-1" keep_visual_rotation="false" x="-21">
+            <text>F_</text>
+        </dynamic_text>
+        <terminal uuid="{b78472f2-24c6-4a3d-bfba-9a2030c20ee0}" y="31" name="" type="Generic" orientation="s" x="0"/>
+        <terminal uuid="{b54924e4-2f20-4833-b38b-3b4a209da15f}" y="-31" name="" type="Generic" orientation="n" x="0"/>
+    </description>
+</definition>
