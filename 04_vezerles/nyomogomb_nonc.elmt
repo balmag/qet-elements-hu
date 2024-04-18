@@ -1,0 +1,50 @@
+<definition hotspot_x="12" height="60" width="40" link_type="master" type="element" version="0.90" hotspot_y="30">
+    <uuid uuid="{7e0f119e-d13e-441e-bfe7-bf892fe22c19}"/>
+    <names>
+        <name lang="de">Drucktaster Schliesser</name>
+        <name lang="ru">Кнопка (НР)</name>
+        <name lang="hu">Nyomógomb (NO/NC)</name>
+        <name lang="pt">Botão de pressão (NA)</name>
+        <name lang="it">Pulsante (NA)</name>
+        <name lang="cs">Tlačítko</name>
+        <name lang="nl">Drukknop (NO)</name>
+        <name lang="ar">زرّ ضاغط</name>
+        <name lang="el">Μπουτόν, ανοικτή επαφή</name>
+        <name lang="en">Push-button</name>
+        <name lang="es">Pulsador</name>
+        <name lang="pl">Łącznik przyciskowy z powrotem samoczynnym</name>
+        <name lang="fr">Bouton poussoir</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" x="18.25" y="15.5" antialias="false"/>
+        <line x1="20" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" length1="1.5" x2="20" end2="none" y1="-16" antialias="false" y2="-10"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" x="18" y="-20" antialias="false"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" x="-2" y="15" antialias="false"/>
+        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" z="3" x="12" y="-18" keep_visual_rotation="false" text_from="ElementInfo" rotation="0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{11671370-fac8-4209-86af-ecfa452744bb}" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="25.25" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="20.25" x2="20.25" closed="false" y1="-10.5" antialias="true" y2="9.5" y3="15.5"/>
+        <polygon x1="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="0" x2="0" closed="false" y1="-10" antialias="true" y2="10" y3="15"/>
+        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" z="4" x="47" y="5" keep_visual_rotation="false" text_from="ElementInfo" rotation="0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{818806e9-1e18-4717-a22b-72f3bcf77a60}" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" length1="1.5" x2="0" end2="none" y1="-16" antialias="false" y2="-10"/>
+        <line x1="19.95" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" length1="1.5" x2="25.95" end2="none" y1="-9.5" antialias="false" y2="-9.5"/>
+        <line x1="-10" style="line-style:dashed;line-weight:thin;filling:none;color:black" end1="none" length2="1.5" length1="1.5" x2="23" end2="none" y1="0" antialias="false" y2="0"/>
+        <polygon x1="-7" style="line-style:normal;line-weight:thin;filling:none;color:black" x3="-10" x2="-10" closed="false" y1="-5" antialias="false" x4="-7" y4="5" y2="-5" y3="5"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" x="-2" y="-20" antialias="false"/>
+        <line x1="20.25" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" length1="1.5" x2="20.25" end2="none" y1="19.5" antialias="false" y2="23.5"/>
+        <terminal orientation="s" x="0" y="23" name="" uuid="{766bb41b-23ad-4f9b-8ff4-55a526befcfb}" type="Generic"/>
+        <terminal orientation="s" x="20.25" y="23.5" name="" uuid="{10413939-85c7-4c55-b430-a4ae975b0535}" type="Generic"/>
+        <terminal orientation="n" x="0" y="-24" name="" uuid="{85a059ca-185f-41ce-aa1e-a1090ac7b5f1}" type="Generic"/>
+        <terminal orientation="n" x="20" y="-24" name="" uuid="{77d784e6-9919-4c5f-b00b-7880d0b9f355}" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,38 @@
+<definition hotspot_x="24" height="30" width="50" link_type="master" type="element" version="0.90" hotspot_y="15">
+    <uuid uuid="{1f5fad76-fed6-46fa-a7d6-342e115a207d}"/>
+    <names>
+        <name lang="de">Drucktaster Öffner</name>
+        <name lang="ru">Кнопка (НЗ)</name>
+        <name lang="hu">Finder relé</name>
+        <name lang="pt">Botão de pressão (NC)</name>
+        <name lang="it">Pulsante (NC)</name>
+        <name lang="cs">Tlačítko (NC)</name>
+        <name lang="nl">Drukknop (NC)</name>
+        <name lang="ar">زرّ ضاغط (NC)</name>
+        <name lang="el">Μπουτόν, κλειστή επαφή</name>
+        <name lang="en">Push-button (NC)</name>
+        <name lang="es">Pulsador (NC)</name>
+        <name lang="pl">Łącznik przyciskowy z powrotem samoczynnym</name>
+        <name lang="fr">Bouton poussoir (NF)</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <line x1="8" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" length1="1.5" x2="12" end2="none" y1="0" antialias="false" y2="0"/>
+        <line x1="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" length1="1.5" x2="-16" end2="none" y1="0" antialias="false" y2="0"/>
+        <line x1="16" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" length1="1.5" x2="20" end2="none" y1="0" antialias="false" y2="0"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" x="12" y="-2" antialias="false"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" x="-16" y="-2" antialias="false"/>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" x="-7" y="-13" height="26" width="14" antialias="false" rx="0" ry="0"/>
+        <line x1="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" length1="1.5" x2="-8" end2="none" y1="0" antialias="false" y2="0"/>
+        <line x1="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" length1="1.5" x2="7" end2="none" y1="5" antialias="false" y2="5"/>
+        <line x1="-6.36094" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" length1="1.5" x2="6.38739" end2="none" y1="5.54103" antialias="false" y2="12.3648"/>
+        <line x1="6.41384" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" length1="1.5" x2="-6.32127" end2="none" y1="5.59393" antialias="false" y2="12.378"/>
+        <terminal orientation="w" x="-20" y="0" name="" uuid="{c0d98f07-94e0-4da4-a38e-b0704ef97e35}" type="Generic"/>
+        <terminal orientation="e" x="20" y="0" name="" uuid="{b8878bbb-8341-4850-830f-a99ef2995abc}" type="Generic"/>
+    </description>
+</definition>

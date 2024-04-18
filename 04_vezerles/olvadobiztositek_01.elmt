@@ -1,30 +1,27 @@
-<definition hotspot_x="10" hotspot_y="39" link_type="simple" version="0.90" width="20" type="element" height="80">
-    <uuid uuid="{707c83c3-7702-426c-8f6b-9fce4807fcc8}"/>
+<definition hotspot_x="10" height="80" width="20" link_type="simple" type="element" version="0.90" hotspot_y="39">
+    <uuid uuid="{b67a8c97-5c74-41cb-972a-6e8f18ff2bfb}"/>
     <names>
-        <name lang="en">Fuse, general symbol</name>
-        <name lang="hu">Olvadóbiztosíték</name>
-        <name lang="fr">Fusible, symbole général</name>
-        <name lang="cs">Tavná pojistka, všeobecná značka</name>
         <name lang="de">Sicherung, allgemein</name>
+        <name lang="hu">Olvadóbiztosíték</name>
+        <name lang="cs">Tavná pojistka, všeobecná značka</name>
+        <name lang="en">Fuse, general symbol</name>
+        <name lang="fr">Fusible, symbole général</name>
     </names>
     <elementInformations/>
-    <informations>Author: The QElectroTech team
+    <informations>Author: The QElectroTech team&#xd;
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
     <description>
-        <circle antialias="false" y="23" diameter="4" x="-2" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <dynamic_text uuid="{d0f1690f-3992-4657-9d21-38561fadc7f6}" y="15.5" z="1" rotation="0" Valignment="AlignTop" text_from="ElementInfo" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" Halignment="AlignLeft" text_width="-1" keep_visual_rotation="false" x="5">
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" x="-2" y="23" antialias="false"/>
+        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" z="1" x="5" y="15.5" keep_visual_rotation="false" text_from="ElementInfo" rotation="0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{d0f1690f-3992-4657-9d21-38561fadc7f6}" frame="false">
             <text></text>
             <info_name>label</info_name>
         </dynamic_text>
-        <line length1="1.5" antialias="false" end2="none" y2="23" x1="0" x2="0" length2="1.5" y1="-23" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <rect antialias="false" y="-15" rx="0" width="10" ry="0" height="30" x="-5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <circle antialias="false" y="-27" diameter="4" x="-2" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <line length1="1.5" antialias="false" end2="none" y2="31" x1="0" x2="0" length2="1.5" y1="27" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <line length1="1.5" antialias="false" end2="none" y2="-27" x1="0" x2="0" length2="1.5" y1="-31" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <dynamic_text uuid="{cf47ea6f-b848-40f7-b74f-90ffb3381c15}" y="-10" z="18" rotation="0" Valignment="AlignTop" text_from="UserText" font="Verdana,8,-1,5,50,0,0,0,0,0,Regular" frame="false" Halignment="AlignLeft" text_width="-1" keep_visual_rotation="false" x="-21">
-            <text>F_</text>
-        </dynamic_text>
-        <terminal uuid="{b78472f2-24c6-4a3d-bfba-9a2030c20ee0}" y="31" name="" type="Generic" orientation="s" x="0"/>
-        <terminal uuid="{b54924e4-2f20-4833-b38b-3b4a209da15f}" y="-31" name="" type="Generic" orientation="n" x="0"/>
+        <line x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" length1="1.5" x2="0" end2="none" y1="-23" antialias="false" y2="23"/>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" x="-5" y="-15" height="30" width="10" antialias="false" rx="0" ry="0"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" x="-2" y="-27" antialias="false"/>
+        <line x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" length1="1.5" x2="0" end2="none" y1="27" antialias="false" y2="31"/>
+        <line x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" length1="1.5" x2="0" end2="none" y1="-31" antialias="false" y2="-27"/>
+        <terminal orientation="n" x="0" y="-31" name="" uuid="{b54924e4-2f20-4833-b38b-3b4a209da15f}" type="Generic"/>
+        <terminal orientation="s" x="0" y="31" name="" uuid="{b78472f2-24c6-4a3d-bfba-9a2030c20ee0}" type="Generic"/>
     </description>
 </definition>

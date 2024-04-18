@@ -1,38 +1,40 @@
-<definition link_type="master" hotspot_x="14" width="20" type="element" height="60" hotspot_y="30" version="0.90">
-    <uuid uuid="{777809e7-85f3-4356-8dac-f5a80cd3bedb}"/>
+<definition link_type="master" height="60" width="20" hotspot_x="14" type="element" version="0.90" hotspot_y="30">
+    <uuid uuid="{0c58f006-cab4-4548-a357-15e3a05d67e3}"/>
     <names>
-        <name lang="de">Drucktaster Schliesser</name>
-        <name lang="fr">Bouton poussoir</name>
-        <name lang="es">Pulsador</name>
-        <name lang="it">Pulsante (NA)</name>
-        <name lang="cs">Tlačítko</name>
         <name lang="pl">Łącznik przyciskowy z powrotem samoczynnym</name>
-        <name lang="el">Μπουτόν, ανοικτή επαφή</name>
         <name lang="ar">زرّ ضاغط</name>
-        <name lang="pt">Botão de pressão (NA)</name>
+        <name lang="de">Drucktaster Schliesser</name>
         <name lang="nl">Drukknop (NO)</name>
-        <name lang="hu">Nyomógomb (NO)</name>
+        <name lang="it">Pulsante (NA)</name>
         <name lang="en">Push-button</name>
         <name lang="ru">Кнопка (НР)</name>
+        <name lang="fr">Bouton poussoir</name>
+        <name lang="es">Pulsador</name>
+        <name lang="pt">Botão de pressão (NA)</name>
+        <name lang="el">Μπουτόν, ανοικτή επαφή</name>
+        <name lang="hu">Nyomógomb (NO)</name>
+        <name lang="cs">Tlačítko</name>
     </names>
     <kindInformations>
         <kindInformation name="type">commutator</kindInformation>
     </kindInformations>
     <elementInformations/>
-    <informations>Author: The QElectroTech team
+    <informations>Author: The QElectroTech team&#xd;
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
     <description>
-        <circle antialias="false" diameter="4" y="15" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-2"/>
-        <polygon x1="-5" antialias="true" y2="10" y1="-10" closed="false" x3="0" y3="15" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <line x1="0" end2="none" antialias="false" length2="1.5" y2="-10" y1="-16" length1="1.5" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
-        <dynamic_text keep_visual_rotation="false" Valignment="AlignTop" uuid="{11671370-fac8-4209-86af-ecfa452744bb}" y="-17" z="3" text_from="ElementInfo" Halignment="AlignLeft" frame="false" x="8" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text_width="-1" rotation="0">
+        <circle x="-2" y="15" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4"/>
+        <polygon x2="0" y1="-10" x3="0" y2="10" closed="false" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" y3="15" x1="-5"/>
+        <dynamic_text uuid="{11671370-fac8-4209-86af-ecfa452744bb}" x="8" z="3" text_width="-1" y="-17" frame="false" Valignment="AlignTop" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" Halignment="AlignLeft" font="Sans Serif,9,-1,5,50,0,0,0,0,0">
             <text></text>
             <info_name>label</info_name>
         </dynamic_text>
-        <line x1="-10" end2="none" antialias="false" length2="1.5" y2="0" y1="0" length1="1.5" x2="-3" style="line-style:dashed;line-weight:thin;filling:none;color:black" end1="none"/>
-        <polygon x1="-7" y4="5" antialias="false" y2="-5" y1="-5" closed="false" x4="-7" x3="-10" y3="5" x2="-10" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
-        <circle antialias="false" diameter="4" y="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-2"/>
-        <terminal uuid="{85a059ca-185f-41ce-aa1e-a1090ac7b5f1}" name="" y="-24" orientation="n" x="0" type="Generic"/>
-        <terminal uuid="{766bb41b-23ad-4f9b-8ff4-55a526befcfb}" name="" y="23" orientation="s" x="0" type="Generic"/>
+        <line x2="0" end1="none" y1="-16" length1="1.5" length2="1.5" y2="-10" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0"/>
+        <line x2="-3" end1="none" y1="0" length1="1.5" length2="1.5" y2="0" antialias="false" end2="none" style="line-style:dashed;line-weight:thin;filling:none;color:black" x1="-10"/>
+        <polygon x2="-10" y1="-5" x3="-10" y2="-5" x4="-7" closed="false" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y4="5" y3="5" x1="-7"/>
+        <circle x="-2" y="-20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4"/>
+        <line x2="0" end1="none" y1="-24" length1="1.5" length2="1.5" y2="-20" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0"/>
+        <line x2="0" end1="none" y1="23" length1="1.5" length2="1.5" y2="19" antialias="false" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0"/>
+        <terminal uuid="{85a059ca-185f-41ce-aa1e-a1090ac7b5f1}" orientation="n" x="0" name="" y="-24" type="Generic"/>
+        <terminal uuid="{766bb41b-23ad-4f9b-8ff4-55a526befcfb}" orientation="s" x="0" name="" y="23" type="Generic"/>
     </description>
 </definition>
